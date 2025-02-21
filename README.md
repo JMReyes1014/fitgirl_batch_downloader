@@ -9,7 +9,7 @@ When downloading large games from Fitgirl Repacks, which are often divided into 
 2. Waiting for the download page to load
 3. Clicking the download button
 4. Repeating the steps for every part
-5. 
+
 This script streamlines the process by managing multiple downloads in batches, reducing effort and saving time.
 
 ## Requirements
