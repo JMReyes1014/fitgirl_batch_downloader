@@ -74,7 +74,6 @@ python script.py https://fitgirl-repacks.site/game-name --browser chrome --downl
 
 ## Setup for Selenium WebDriver
 Ensure you have the Edge WebDriver installed. It can be managed automatically using:
-``` bash
 ```python
 from webdriver_manager.microsoft import EdgeChromiumDriverManager
 service = Service(EdgeChromiumDriverManager().install())
