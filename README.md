@@ -69,10 +69,12 @@ Example:
 ```bash
 python script.py https://fitgirl-repacks.site/game-name --browser chrome --download-dir D:\Downloads --batch-size 10
 
+```
+
+
 ## Setup for Selenium WebDriver
-
 Ensure you have the Edge WebDriver installed. It can be managed automatically using:
-
+``` bash
 ```python
 from webdriver_manager.microsoft import EdgeChromiumDriverManager
 service = Service(EdgeChromiumDriverManager().install())
